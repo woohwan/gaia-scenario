@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policy>
+  <title>데이터 보존정책 안내</title>
+  <revision_date>2026-08-01</revision_date>
+  <department>IT운영팀</department>
+  <contact>it-ops@example.com</contact>
+  <description>본 정책은 백업 스냅샷의 최소 보존 기간을 정의합니다. 보존 기간이 경과한 스냅샷은 자동으로 삭제됩니다. 예외가 필요한 경우 IT운영팀에 사전 승인을 요청해야 합니다.</description>
+  <current_retention_days>90</current_retention_days>
+  <retention_table>
+    <row><type>스냅샷</type><period>90일</period><owner>IT운영팀</owner></row>
+    <row><type>로그</type><period>30일</period><owner>보안팀</owner></row>
+    <row><type>아카이브</type><period>365일</period><owner>데이터관리팀</owner></row>
+  </retention_table>
+</policy>

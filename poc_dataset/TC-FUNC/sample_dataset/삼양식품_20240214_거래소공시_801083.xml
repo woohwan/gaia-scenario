@@ -1,0 +1,334 @@
+<html>
+ <head> 
+  <meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"> 
+  <meta content="text/html; charset=euc-kr" http-equiv="Content-Type"> 
+  <STYLE>
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+    font-size: 10px;
+    padding:0px;
+    border-collapse:collapse;
+    color: #3D3D3D;
+}
+.xforms td {
+    padding-left:0px;
+    padding-top:0px;
+    border-collapse:collapse;
+    line-height:22px;
+    color: #3D3D3D;
+    /*text-align:right;*/
+    vertical-align:middle;
+    border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+    /*display: inline-block;*/
+    padding-left:3px;
+    padding-right: 1px;
+    line-height:22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    text-align:left;
+    vertical-align:middle;
+    border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+    border : 0px;
+}
+
+.xforms a:link {
+
+    color: #194866;
+    text-decoration: none;
+}
+.xforms a:active {
+
+    color: #194866;
+    text-decoration: none;
+}
+.xforms a:visited {
+    color: #194866;
+    text-decoration: none;
+}
+
+.xforms A:hover {
+    color:008BE3;
+    text-decoration: none;
+}
+
+.xforms_input{
+    border: 0px solid #DBDBDB;
+    padding-left:3px;
+    padding-right: 1px;
+    height:22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    text-align:left;
+}
+</STYLE> 
+  <title>삼양식품/주주총회소집결의/(2024.02.14)주주총회소집결의</title> 
+ </head> 
+ <body> 
+  <div class="xforms"> 
+   <div> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <div class="xforms_title"> 
+     <div> 
+      <span style="width:600px;font-weight:bold;text-align:center;">주주총회소집 결의</span> 
+     </div> 
+    </div> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <table border="1" bordercolordark="white" bordercolorlight="#666666" cellpadding="1" cellspacing="0" id="XFormD52_Form0_Table0" style="margin:0px 0px 20px 0px;width:600px;font-size:10pt;border:1px solid #7f7f7f;"> 
+     <tbody> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">1. 구분</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;">정기주주총회</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">2. 일시</span> </td> 
+       <td width="139"> <span class="xforms_input" style="width:139px;font-size:10pt;">2024-03-28</span> </td> 
+       <td width="236"> <span class="xforms_input" style="width:236px;font-size:10pt;">09 : 00</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">3. 장소</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;">서울시 성북구 오패산로3길 104 삼양식품빌딩 1층 대강의장</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">4. 의안 주요내용</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;">1) 보고사항 <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->   - 감사보고 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->   - 영업보고 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->   - 내부회계관리제도 운영실태 보고 <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">2) 부의안건 <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제1호 의안 : 제63기 (2023.01.01~2023.12.31) <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                재무제표(이익잉여금처분계산서 포함)                  및 연결재무제표 승인의 건   <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제2호 의안 : 정관 일부 변경의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->      <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ·제2-1호 의안 : 이사회의 소집 통지 기한 변경 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                    (정관 제36조) <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ˙제2-2호 의안 : 배당기준일 변경 등 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                    (정관 제45조 및 제45조의2, 부칙) <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제3호 의안 : 이사 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                (사내이사 2명, 사외이사 3명) <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ·제3-1호 의안 : 사내이사 김정수 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ˙제3-2호 의안 : 사내이사 한세혁 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ·제3-3호 의안 : 사외이사 정무식 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ˙제3-4호 의안 : 사외이사 강소엽 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ˙제3-5호 의안 : 사외이사 남판우 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제4호 의안 : 감사위원회 위원이 되는 사외이사 김인수 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제5호 의안 : 감사위원회 위원 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->                (감사위원 2명) <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ·제5-1호 의안 : 감사위원 정무식 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?-->    ˙제5-2호 의안 : 감사위원 남판우 선임의 건 <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">
+         <!--?javax.xml.transform.disable-output-escaping?--> 
+         <!--?javax.xml.transform.enable-output-escaping?--> - 제6호 의안 : 이사 보수한도 승인의 건</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">5. 이사회결의일(결정일)</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;">2024-02-14</span> </td> 
+      </tr> 
+      <tr> 
+       <td rowspan="2" width="139"> <span style="width:139px;font-size:10pt;">- 사외이사 참석여부</span> </td> 
+       <td width="86"> <span style="width:86px;font-size:10pt;">참석(명)</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;text-align:right;">4</span> </td> 
+      </tr> 
+      <tr> 
+       <td width="86"> <span style="width:86px;font-size:10pt;">불참(명)</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;text-align:right;">0</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" width="225"> <span style="width:225px;font-size:10pt;">- 감사(사외이사가 아닌 감사위원) 참석여부</span> </td> 
+       <td colspan="2" width="375"> <span class="xforms_input" style="width:375px;font-size:10pt;">-</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="4" width="600"> <span style="width:600px;font-size:10pt;">6.기타 투자판단과 관련한 중요사항</span> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="4" width="600"> <span class="xforms_input" style="width:600px;font-size:10pt;">- 당사는 주주권 강화를 위해 금번 주주총회에서 기존 현장참석 투표 및 의결권 위임 행사와 함께 전자투표제를 시행예정입니다. <br xmlns:java="http://xml.apache.org/xalan/java"> <br xmlns:java="http://xml.apache.org/xalan/java">- 제63기 정기주주총회와 관련하여 일시, 장소 등 세부 변경사항 발생 시 승인권한을 대표이사에게 위임하며, 변경 결정 즉시 정정공시를 제출할 예정입니다.</span> </td> 
+      </tr> 
+      <tr> 
+       <td width="139"> <span style="width:139px;font-size:10pt;">※ 관련공시</span> </td> 
+       <td colspan="3" width="461"> <span class="xforms_input" style="width:461px;font-size:10pt;">-</span> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div id="LIB_L9005" style="width:600px;font-size:10pt;;padding:0 0 20 0"> 
+     <div> 
+      <div> 
+       <span style="width:597px;font-size:11pt;font-weight:bold;">[이사선임 세부내역]</span> 
+       <table border="1" bordercolordark="white" bordercolorlight="#666666" cellpadding="1" cellspacing="0" id="XFormD1_Form0_RepeatTable0" style="margin:0px 0px 20px 0px;width:598px;font-size:10pt;border:1px solid #7f7f7f;"> 
+        <tbody> 
+         <tr> 
+          <td width="62"> <span style="width:62px;font-size:10pt;text-align:center;">성명</span> </td> 
+          <td width="90"> <span style="width:90px;font-size:10pt;text-align:center;">출생년도</span> </td> 
+          <td width="50"> <span style="width:50px;font-size:10pt;text-align:center;">임기</span> </td> 
+          <td width="70"> <span style="width:70px;font-size:10pt;text-align:center;">신규선임여부</span> </td> 
+          <td width="326"> <span style="width:326px;font-size:10pt;text-align:center;">주요경력(현직포함)</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="62"> <span class="xforms_input" style="width:62px;font-size:10pt;">김정수</span> </td> 
+          <td width="90"> <span class="xforms_input" style="width:90px;font-size:10pt;">1964-03</span> </td> 
+          <td width="50"> <span class="xforms_input" style="width:50px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="70"> <span class="xforms_input" style="width:70px;font-size:10pt;">재선임</span> </td> 
+          <td width="326"> <span class="xforms_input" style="width:326px;font-size:10pt;">- (現) 삼양식품 부회장 <br java="http://xml.apache.org/xalan/java">- 이화여대 사회사업학 졸업</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="62"> <span class="xforms_input" style="width:62px;font-size:10pt;">한세혁</span> </td> 
+          <td width="90"> <span class="xforms_input" style="width:90px;font-size:10pt;">1977-11</span> </td> 
+          <td width="50"> <span class="xforms_input" style="width:50px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="70"> <span class="xforms_input" style="width:70px;font-size:10pt;">신규선임</span> </td> 
+          <td width="326"> <span class="xforms_input" style="width:326px;font-size:10pt;">- (現) 삼양식품 구매/SCM 본부장 <br java="http://xml.apache.org/xalan/java">- 한양대 경제학 졸업</span> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="LIB_L9004" style="width:600px;font-size:10pt;;padding:0 0 20 0"> 
+     <div> 
+      <div> 
+       <span style="width:597px;font-size:11pt;font-weight:bold;">[사외이사선임 세부내역]</span> 
+       <table border="1" bordercolordark="white" bordercolorlight="#666666" cellpadding="1" cellspacing="0" id="XFormG3_Form0_RepeatTable0" style="margin:0px 0px 20px 0px;width:599px;font-size:10pt;border:1px solid #7f7f7f;"> 
+        <tbody> 
+         <tr> 
+          <td width="63"> <span style="width:63px;font-size:10pt;text-align:center;">성명</span> </td> 
+          <td width="85"> <span style="width:85px;font-size:10pt;text-align:center;">출생년월</span> </td> 
+          <td width="43"> <span style="width:43px;font-size:10pt;text-align:center;">임기</span> </td> 
+          <td width="69"> <span style="width:69px;font-size:10pt;text-align:center;">신규선임여부</span> </td> 
+          <td width="182"> <span style="width:182px;font-size:10pt;text-align:center;">주요경력(현직포함)</span> </td> 
+          <td width="157"> <span style="width:157px;font-size:10pt;text-align:center;">이사 등으로 재직 중인 다른 법인명(직위)</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="63"> <span class="xforms_input" style="width:63px;font-size:10pt;">정무식</span> </td> 
+          <td width="85"> <span class="xforms_input" style="width:85px;font-size:10pt;">1965-03</span> </td> 
+          <td width="43"> <span class="xforms_input" style="width:43px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="69"> <span class="xforms_input" style="width:69px;font-size:10pt;">재선임</span> </td> 
+          <td width="182"> <span class="xforms_input" style="width:182px;font-size:10pt;">- (現) 법무법인 세온 대표 변호사 <br java="http://xml.apache.org/xalan/java">- (前) 법무법인 공감파트너스 변호사 <br java="http://xml.apache.org/xalan/java">- 고려대 법학 졸업</span> </td> 
+          <td width="157"> <span class="xforms_input" style="width:157px;font-size:10pt;">(주)나노시스템(사외이사)</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="63"> <span class="xforms_input" style="width:63px;font-size:10pt;">강소엽</span> </td> 
+          <td width="85"> <span class="xforms_input" style="width:85px;font-size:10pt;">1972-11</span> </td> 
+          <td width="43"> <span class="xforms_input" style="width:43px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="69"> <span class="xforms_input" style="width:69px;font-size:10pt;">재선임</span> </td> 
+          <td width="182"> <span class="xforms_input" style="width:182px;font-size:10pt;">- (現) HSG휴먼솔루션그룹 동기과학연구소 소장 <br java="http://xml.apache.org/xalan/java">- 연세대 언론홍보대학원 졸업</span> </td> 
+          <td width="157"> <span class="xforms_input" style="width:157px;font-size:10pt;">-</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="63"> <span class="xforms_input" style="width:63px;font-size:10pt;">김인수</span> </td> 
+          <td width="85"> <span class="xforms_input" style="width:85px;font-size:10pt;">1974-04</span> </td> 
+          <td width="43"> <span class="xforms_input" style="width:43px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="69"> <span class="xforms_input" style="width:69px;font-size:10pt;">신규선임</span> </td> 
+          <td width="182"> <span class="xforms_input" style="width:182px;font-size:10pt;">- (現) 한미회계법인 파트너/상무이사 <br java="http://xml.apache.org/xalan/java">- (前) 삼일회계법인 <br java="http://xml.apache.org/xalan/java">- 서울대 경영학 학사</span> </td> 
+          <td width="157"> <span class="xforms_input" style="width:157px;font-size:10pt;">(주)디이엔티(비상근감사)</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="63"> <span class="xforms_input" style="width:63px;font-size:10pt;">남판우</span> </td> 
+          <td width="85"> <span class="xforms_input" style="width:85px;font-size:10pt;">1970-03</span> </td> 
+          <td width="43"> <span class="xforms_input" style="width:43px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="69"> <span class="xforms_input" style="width:69px;font-size:10pt;">신규선임</span> </td> 
+          <td width="182"> <span class="xforms_input" style="width:182px;font-size:10pt;">- (現) 김·장 법률사무소 <br java="http://xml.apache.org/xalan/java">- (前) 중부지방국세청 징세송무국장 <br java="http://xml.apache.org/xalan/java">- 서울대 농경제학과 학사, 행정학과 석사 <br java="http://xml.apache.org/xalan/java">- 미국 사우스캐롤라이나 주립대학교 법학 박사</span> </td> 
+          <td width="157"> <span class="xforms_input" style="width:157px;font-size:10pt;">삼양홀딩스(주)(사외이사, 감사위원) <br java="http://xml.apache.org/xalan/java"> <br java="http://xml.apache.org/xalan/java">(주)디지털대성(사외이사)</span> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="LIB_L9002" style="width:600px;font-size:10pt;;padding:0 0 20 0"> 
+     <div> 
+      <div> 
+       <span style="width:597px;font-size:11pt;font-weight:bold;">[감사위원선임 세부내역]</span> 
+       <table border="1" bordercolordark="white" bordercolorlight="#666666" cellpadding="1" cellspacing="0" id="XFormD1_Form0_RepeatTable0" style="margin:0px 0px 20px 0px;width:596px;font-size:10pt;border:1px solid #7f7f7f;"> 
+        <tbody> 
+         <tr> 
+          <td width="62"> <span style="width:62px;font-size:10pt;text-align:center;">성명</span> </td> 
+          <td width="90"> <span style="width:90px;font-size:10pt;text-align:center;">출생년월</span> </td> 
+          <td width="50"> <span style="width:50px;font-size:10pt;text-align:center;">임기</span> </td> 
+          <td width="70"> <span style="width:70px;font-size:10pt;text-align:center;">신규선임여부</span> </td> 
+          <td width="100"> <span style="width:100px;font-size:10pt;text-align:center;">사외이사여부</span> </td> 
+          <td width="224"> <span style="width:224px;font-size:10pt;text-align:center;">주요경력(현직포함)</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="62"> <span class="xforms_input" style="width:62px;font-size:10pt;">정무식</span> </td> 
+          <td width="90"> <span class="xforms_input" style="width:90px;font-size:10pt;">1965-03</span> </td> 
+          <td width="50"> <span class="xforms_input" style="width:50px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="70"> <span class="xforms_input" style="width:70px;font-size:10pt;">재선임</span> </td> 
+          <td width="100"> <span class="xforms_input" style="width:100px;font-size:10pt;">사외이사인 감사위원</span> </td> 
+          <td width="224"> <span class="xforms_input" style="width:224px;font-size:10pt;">- (現) 법무법인 세온 대표 변호사 <br java="http://xml.apache.org/xalan/java">- (前) 법무법인 공감파트너스 변호사 <br java="http://xml.apache.org/xalan/java">- 고려대 법학 졸업</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="62"> <span class="xforms_input" style="width:62px;font-size:10pt;">김인수</span> </td> 
+          <td width="90"> <span class="xforms_input" style="width:90px;font-size:10pt;">1974-04</span> </td> 
+          <td width="50"> <span class="xforms_input" style="width:50px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="70"> <span class="xforms_input" style="width:70px;font-size:10pt;">신규선임</span> </td> 
+          <td width="100"> <span class="xforms_input" style="width:100px;font-size:10pt;">사외이사인 감사위원</span> </td> 
+          <td width="224"> <span class="xforms_input" style="width:224px;font-size:10pt;">- (現) 한미회계법인 파트너/상무이사 <br java="http://xml.apache.org/xalan/java">- (前) 삼일회계법인 <br java="http://xml.apache.org/xalan/java">- 서울대 경영학 학사</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="62"> <span class="xforms_input" style="width:62px;font-size:10pt;">남판우</span> </td> 
+          <td width="90"> <span class="xforms_input" style="width:90px;font-size:10pt;">1970-03</span> </td> 
+          <td width="50"> <span class="xforms_input" style="width:50px;font-size:10pt;text-align:right;">3</span> </td> 
+          <td width="70"> <span class="xforms_input" style="width:70px;font-size:10pt;">신규선임</span> </td> 
+          <td width="100"> <span class="xforms_input" style="width:100px;font-size:10pt;">사외이사인 감사위원</span> </td> 
+          <td width="224"> <span class="xforms_input" style="width:224px;font-size:10pt;">- (現) 김·장 법률사무소 <br java="http://xml.apache.org/xalan/java">- (前) 중부지방국세청 징세송무국장 <br java="http://xml.apache.org/xalan/java">- 서울대 농경제학과 학사, 행정학과 석사 <br java="http://xml.apache.org/xalan/java">- 미국 사우스캐롤라이나 주립대학교 법학 박사</span> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <span class="noprint" style="display:none;width:600px;font-size:10pt;"> </span> 
+    <div id="LIB_L9091" style="width:600px;font-size:10pt;;padding:0 0 20 0"> 
+     <div> 
+      <div> 
+       <span style="width:600px;font-size:11pt;font-weight:bold;">【 정관상 기준일 설정 및 변경 세부내역 】</span> 
+       <table border="1" bordercolordark="white" bordercolorlight="#666666" cellpadding="1" cellspacing="0" id="XFormG1_Form0_RepeatTable0" style="margin:0px 0px 20px 0px;width:596px;font-size:10pt;border:1px solid #7f7f7f;"> 
+        <tbody> 
+         <tr> 
+          <td width="324"> <span style="width:324px;font-size:10pt;text-align:center;">정기주주총회 소집을 위한 권리주주 확정 기준일</span> </td> 
+          <td width="272"> <span style="width:272px;font-size:10pt;text-align:center;">이익배당(결산배당) 기준일</span> </td> 
+         </tr> 
+         <tr> 
+          <td width="324"> <span class="xforms_input" style="width:324px;font-size:10pt;text-align:center;">12-31</span> </td> 
+          <td width="272"> <span class="xforms_input" style="width:272px;font-size:10pt;text-align:center;">-</span> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

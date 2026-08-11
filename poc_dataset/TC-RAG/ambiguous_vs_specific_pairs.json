@@ -1,0 +1,27 @@
+[
+  {
+    "topic": "삼성전자 매출",
+    "specific_question": "삼성전자의 직전 사업연도 매출액은 정확히 얼마입니까? (단위: 백만원)",
+    "ambiguous_question": "삼성전자 요즘 실적 어때?"
+  },
+  {
+    "topic": "삼성전자 임원 지분 변동",
+    "specific_question": "이번 보고서 기준일 현재 삼성전자 임원의 주식 보유 수량은 직전 보고서 대비 몇 주 증가했습니까?",
+    "ambiguous_question": "삼성전자 임원들 주식 좀 샀나?"
+  },
+  {
+    "topic": "현대자동차 공시",
+    "specific_question": "현대자동차의 최근 사업보고서에 기재된 영업이익은 얼마입니까?",
+    "ambiguous_question": "현대차 요즘 잘 되고 있어?"
+  },
+  {
+    "topic": "교보증권 증권발행",
+    "specific_question": "교보증권 제50088회 주가연계파생결합사채의 실제 자금조달총액은 얼마입니까?",
+    "ambiguous_question": "교보증권이 최근에 뭐 발행했어?"
+  },
+  {
+    "topic": "삼성전자-삼성물산 거래",
+    "specific_question": "삼성전자와 삼성물산 간의 분기별 거래 합계액은 삼성전자 매출액 대비 몇 %입니까?",
+    "ambiguous_question": "삼성전자랑 삼성물산이랑 무슨 관계야?"
+  }
+]
