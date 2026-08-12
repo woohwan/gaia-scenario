@@ -3,7 +3,7 @@
   "total": 232,
   "files": [
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230515_사업보고서_002256.xls",
+      "file_path": "./삼양식품_20230515_사업보고서_002256.xls",
       "file_name": "삼양식품_20230515_사업보고서_002256.xls",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -14,7 +14,7 @@
       "size_bytes": 48128
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230515_사업보고서_002256.xml",
+      "file_path": "./삼양식품_20230515_사업보고서_002256.xml",
       "file_name": "삼양식품_20230515_사업보고서_002256.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -25,7 +25,7 @@
       "size_bytes": 814816
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230515_사업보고서_002256.pdf",
+      "file_path": "./삼양식품_20230515_사업보고서_002256.pdf",
       "file_name": "삼양식품_20230515_사업보고서_002256.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -36,7 +36,7 @@
       "size_bytes": 908074
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240814_사업보고서_001438.pdf",
+      "file_path": "./삼양식품_20240814_사업보고서_001438.pdf",
       "file_name": "삼양식품_20240814_사업보고서_001438.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -47,7 +47,7 @@
       "size_bytes": 1142125
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240814_사업보고서_001438.xml",
+      "file_path": "./삼양식품_20240814_사업보고서_001438.xml",
       "file_name": "삼양식품_20240814_사업보고서_001438.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -58,7 +58,7 @@
       "size_bytes": 1387670
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240516_사업보고서_001968.pdf",
+      "file_path": "./삼양식품_20240516_사업보고서_001968.pdf",
       "file_name": "삼양식품_20240516_사업보고서_001968.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -69,7 +69,7 @@
       "size_bytes": 1120409
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240516_사업보고서_001968.xml",
+      "file_path": "./삼양식품_20240516_사업보고서_001968.xml",
       "file_name": "삼양식품_20240516_사업보고서_001968.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -80,7 +80,7 @@
       "size_bytes": 1326058
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241114_사업보고서_001621.pdf",
+      "file_path": "./삼양식품_20241114_사업보고서_001621.pdf",
       "file_name": "삼양식품_20241114_사업보고서_001621.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -91,7 +91,7 @@
       "size_bytes": 1259288
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241114_사업보고서_001621.xml",
+      "file_path": "./삼양식품_20241114_사업보고서_001621.xml",
       "file_name": "삼양식품_20241114_사업보고서_001621.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -102,7 +102,7 @@
       "size_bytes": 1387279
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231114_사업보고서_000409.xml",
+      "file_path": "./삼양식품_20231114_사업보고서_000409.xml",
       "file_name": "삼양식품_20231114_사업보고서_000409.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -113,7 +113,7 @@
       "size_bytes": 1478481
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231114_사업보고서_000409.pdf",
+      "file_path": "./삼양식품_20231114_사업보고서_000409.pdf",
       "file_name": "삼양식품_20231114_사업보고서_000409.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -124,7 +124,7 @@
       "size_bytes": 1136698
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_사업보고서_002363.pdf",
+      "file_path": "./삼양식품_20230811_사업보고서_002363.pdf",
       "file_name": "삼양식품_20230811_사업보고서_002363.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -135,7 +135,7 @@
       "size_bytes": 1198091
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_사업보고서_002363.xml",
+      "file_path": "./삼양식품_20230811_사업보고서_002363.xml",
       "file_name": "삼양식품_20230811_사업보고서_002363.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -146,7 +146,7 @@
       "size_bytes": 1292191
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_사업보고서_002363.xls",
+      "file_path": "./삼양식품_20230811_사업보고서_002363.xls",
       "file_name": "삼양식품_20230811_사업보고서_002363.xls",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -157,7 +157,7 @@
       "size_bytes": 50176
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250318_사업보고서_001186.pdf",
+      "file_path": "./삼양식품_20250318_사업보고서_001186.pdf",
       "file_name": "삼양식품_20250318_사업보고서_001186.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -168,7 +168,7 @@
       "size_bytes": 1496709
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250318_사업보고서_001186.xml",
+      "file_path": "./삼양식품_20250318_사업보고서_001186.xml",
       "file_name": "삼양식품_20250318_사업보고서_001186.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -179,7 +179,7 @@
       "size_bytes": 3952961
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251114_사업보고서_002147.xml",
+      "file_path": "./삼양식품_20251114_사업보고서_002147.xml",
       "file_name": "삼양식품_20251114_사업보고서_002147.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -190,7 +190,7 @@
       "size_bytes": 3283216
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251114_사업보고서_002147.pdf",
+      "file_path": "./삼양식품_20251114_사업보고서_002147.pdf",
       "file_name": "삼양식품_20251114_사업보고서_002147.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -201,7 +201,7 @@
       "size_bytes": 1260362
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251112_사업보고서_000498.pdf",
+      "file_path": "./삼양식품_20251112_사업보고서_000498.pdf",
       "file_name": "삼양식품_20251112_사업보고서_000498.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -212,7 +212,7 @@
       "size_bytes": 1537261
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251112_사업보고서_000498.xls",
+      "file_path": "./삼양식품_20251112_사업보고서_000498.xls",
       "file_name": "삼양식품_20251112_사업보고서_000498.xls",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -223,7 +223,7 @@
       "size_bytes": 57344
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251112_사업보고서_000498.xml",
+      "file_path": "./삼양식품_20251112_사업보고서_000498.xml",
       "file_name": "삼양식품_20251112_사업보고서_000498.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -234,7 +234,7 @@
       "size_bytes": 1981872
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250515_사업보고서_001959.xml",
+      "file_path": "./삼양식품_20250515_사업보고서_001959.xml",
       "file_name": "삼양식품_20250515_사업보고서_001959.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -245,7 +245,7 @@
       "size_bytes": 2166946
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250515_사업보고서_001959.pdf",
+      "file_path": "./삼양식품_20250515_사업보고서_001959.pdf",
       "file_name": "삼양식품_20250515_사업보고서_001959.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -256,7 +256,7 @@
       "size_bytes": 1204404
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240411_발행공시_003801.pdf",
+      "file_path": "./삼양식품_20240411_발행공시_003801.pdf",
       "file_name": "삼양식품_20240411_발행공시_003801.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -267,7 +267,7 @@
       "size_bytes": 309211
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240411_발행공시_003801.xml",
+      "file_path": "./삼양식품_20240411_발행공시_003801.xml",
       "file_name": "삼양식품_20240411_발행공시_003801.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -278,7 +278,7 @@
       "size_bytes": 529958
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240416_발행공시_000461.pdf",
+      "file_path": "./삼양식품_20240416_발행공시_000461.pdf",
       "file_name": "삼양식품_20240416_발행공시_000461.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -289,7 +289,7 @@
       "size_bytes": 185582
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240416_발행공시_000461.xml",
+      "file_path": "./삼양식품_20240416_발행공시_000461.xml",
       "file_name": "삼양식품_20240416_발행공시_000461.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -300,7 +300,7 @@
       "size_bytes": 11105
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240417_발행공시_000264.pdf",
+      "file_path": "./삼양식품_20240417_발행공시_000264.pdf",
       "file_name": "삼양식품_20240417_발행공시_000264.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -311,7 +311,7 @@
       "size_bytes": 206590
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240417_발행공시_000264.xml",
+      "file_path": "./삼양식품_20240417_발행공시_000264.xml",
       "file_name": "삼양식품_20240417_발행공시_000264.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -322,7 +322,7 @@
       "size_bytes": 42486
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260318_사업보고서_001082.xml",
+      "file_path": "./삼양식품_20260318_사업보고서_001082.xml",
       "file_name": "삼양식품_20260318_사업보고서_001082.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -333,7 +333,7 @@
       "size_bytes": 6208041
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260318_사업보고서_001082.pdf",
+      "file_path": "./삼양식품_20260318_사업보고서_001082.pdf",
       "file_name": "삼양식품_20260318_사업보고서_001082.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -344,7 +344,7 @@
       "size_bytes": 1578489
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260424_발행공시_000687.pdf",
+      "file_path": "./삼양식품_20260424_발행공시_000687.pdf",
       "file_name": "삼양식품_20260424_발행공시_000687.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -355,7 +355,7 @@
       "size_bytes": 213339
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260424_발행공시_000687.xml",
+      "file_path": "./삼양식품_20260424_발행공시_000687.xml",
       "file_name": "삼양식품_20260424_발행공시_000687.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -366,7 +366,7 @@
       "size_bytes": 60624
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260423_발행공시_000731.pdf",
+      "file_path": "./삼양식품_20260423_발행공시_000731.pdf",
       "file_name": "삼양식품_20260423_발행공시_000731.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -377,7 +377,7 @@
       "size_bytes": 188517
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260423_발행공시_000731.xml",
+      "file_path": "./삼양식품_20260423_발행공시_000731.xml",
       "file_name": "삼양식품_20260423_발행공시_000731.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -388,7 +388,7 @@
       "size_bytes": 12539
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240320_사업보고서_001358.pdf",
+      "file_path": "./삼양식품_20240320_사업보고서_001358.pdf",
       "file_name": "삼양식품_20240320_사업보고서_001358.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -399,7 +399,7 @@
       "size_bytes": 1365692
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240320_사업보고서_001358.xml",
+      "file_path": "./삼양식품_20240320_사업보고서_001358.xml",
       "file_name": "삼양식품_20240320_사업보고서_001358.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -410,7 +410,7 @@
       "size_bytes": 1999240
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250814_사업보고서_003075.xml",
+      "file_path": "./삼양식품_20250814_사업보고서_003075.xml",
       "file_name": "삼양식품_20250814_사업보고서_003075.xml",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -421,7 +421,7 @@
       "size_bytes": 3146202
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250814_사업보고서_003075.pdf",
+      "file_path": "./삼양식품_20250814_사업보고서_003075.pdf",
       "file_name": "삼양식품_20250814_사업보고서_003075.pdf",
       "report_type": "A",
       "report_name": "사업보고서",
@@ -432,7 +432,7 @@
       "size_bytes": 1262956
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260420_발행공시_000482.pdf",
+      "file_path": "./삼양식품_20260420_발행공시_000482.pdf",
       "file_name": "삼양식품_20260420_발행공시_000482.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -443,7 +443,7 @@
       "size_bytes": 301539
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260420_발행공시_000482.xml",
+      "file_path": "./삼양식품_20260420_발행공시_000482.xml",
       "file_name": "삼양식품_20260420_발행공시_000482.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -454,7 +454,7 @@
       "size_bytes": 402397
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251119_주요사항보고서_000286.xml",
+      "file_path": "./삼양식품_20251119_주요사항보고서_000286.xml",
       "file_name": "삼양식품_20251119_주요사항보고서_000286.xml",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -465,7 +465,7 @@
       "size_bytes": 33642
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251119_주요사항보고서_000286.pdf",
+      "file_path": "./삼양식품_20251119_주요사항보고서_000286.pdf",
       "file_name": "삼양식품_20251119_주요사항보고서_000286.pdf",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -476,7 +476,7 @@
       "size_bytes": 213386
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240411_발행공시_003731.xml",
+      "file_path": "./삼양식품_20240411_발행공시_003731.xml",
       "file_name": "삼양식품_20240411_발행공시_003731.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -487,7 +487,7 @@
       "size_bytes": 3302817
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240411_발행공시_003731.pdf",
+      "file_path": "./삼양식품_20240411_발행공시_003731.pdf",
       "file_name": "삼양식품_20240411_발행공시_003731.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -498,7 +498,7 @@
       "size_bytes": 3313676
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250918_주요사항보고서_000331.xml",
+      "file_path": "./삼양식품_20250918_주요사항보고서_000331.xml",
       "file_name": "삼양식품_20250918_주요사항보고서_000331.xml",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -509,7 +509,7 @@
       "size_bytes": 18820
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250918_주요사항보고서_000331.pdf",
+      "file_path": "./삼양식품_20250918_주요사항보고서_000331.pdf",
       "file_name": "삼양식품_20250918_주요사항보고서_000331.pdf",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -520,7 +520,7 @@
       "size_bytes": 200156
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250516_주요사항보고서_000302.pdf",
+      "file_path": "./삼양식품_20250516_주요사항보고서_000302.pdf",
       "file_name": "삼양식품_20250516_주요사항보고서_000302.pdf",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -531,7 +531,7 @@
       "size_bytes": 197943
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250516_주요사항보고서_000302.xml",
+      "file_path": "./삼양식품_20250516_주요사항보고서_000302.xml",
       "file_name": "삼양식품_20250516_주요사항보고서_000302.xml",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -542,7 +542,7 @@
       "size_bytes": 15508
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250514_주요사항보고서_000706.pdf",
+      "file_path": "./삼양식품_20250514_주요사항보고서_000706.pdf",
       "file_name": "삼양식품_20250514_주요사항보고서_000706.pdf",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -553,7 +553,7 @@
       "size_bytes": 2042471
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250512_주요사항보고서_000568.pdf",
+      "file_path": "./삼양식품_20250512_주요사항보고서_000568.pdf",
       "file_name": "삼양식품_20250512_주요사항보고서_000568.pdf",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -564,7 +564,7 @@
       "size_bytes": 275736
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250512_주요사항보고서_000568.xml",
+      "file_path": "./삼양식품_20250512_주요사항보고서_000568.xml",
       "file_name": "삼양식품_20250512_주요사항보고서_000568.xml",
       "report_type": "B",
       "report_name": "주요사항보고서",
@@ -575,7 +575,7 @@
       "size_bytes": 75940
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260420_발행공시_000476.pdf",
+      "file_path": "./삼양식품_20260420_발행공시_000476.pdf",
       "file_name": "삼양식품_20260420_발행공시_000476.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -586,7 +586,7 @@
       "size_bytes": 2833783
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260420_발행공시_000476.xml",
+      "file_path": "./삼양식품_20260420_발행공시_000476.xml",
       "file_name": "삼양식품_20260420_발행공시_000476.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -597,7 +597,7 @@
       "size_bytes": 4420344
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260210_지분공시_000697.pdf",
+      "file_path": "./삼양식품_20260210_지분공시_000697.pdf",
       "file_name": "삼양식품_20260210_지분공시_000697.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -608,7 +608,7 @@
       "size_bytes": 243036
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260210_지분공시_000697.xml",
+      "file_path": "./삼양식품_20260210_지분공시_000697.xml",
       "file_name": "삼양식품_20260210_지분공시_000697.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -619,7 +619,7 @@
       "size_bytes": 106944
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001278.xml",
+      "file_path": "./삼양식품_20250602_지분공시_001278.xml",
       "file_name": "삼양식품_20250602_지분공시_001278.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -630,7 +630,7 @@
       "size_bytes": 25638
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001278.pdf",
+      "file_path": "./삼양식품_20250602_지분공시_001278.pdf",
       "file_name": "삼양식품_20250602_지분공시_001278.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -641,7 +641,7 @@
       "size_bytes": 199999
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241231_지분공시_000440.pdf",
+      "file_path": "./삼양식품_20241231_지분공시_000440.pdf",
       "file_name": "삼양식품_20241231_지분공시_000440.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -652,7 +652,7 @@
       "size_bytes": 247246
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241231_지분공시_000440.xml",
+      "file_path": "./삼양식품_20241231_지분공시_000440.xml",
       "file_name": "삼양식품_20241231_지분공시_000440.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -663,7 +663,7 @@
       "size_bytes": 98874
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231227_지분공시_000554.xml",
+      "file_path": "./삼양식품_20231227_지분공시_000554.xml",
       "file_name": "삼양식품_20231227_지분공시_000554.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -674,7 +674,7 @@
       "size_bytes": 95083
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231227_지분공시_000554.pdf",
+      "file_path": "./삼양식품_20231227_지분공시_000554.pdf",
       "file_name": "삼양식품_20231227_지분공시_000554.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -685,7 +685,7 @@
       "size_bytes": 253737
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260414_발행공시_002420.pdf",
+      "file_path": "./삼양식품_20260414_발행공시_002420.pdf",
       "file_name": "삼양식품_20260414_발행공시_002420.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -696,7 +696,7 @@
       "size_bytes": 2581322
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260414_발행공시_002420.xml",
+      "file_path": "./삼양식품_20260414_발행공시_002420.xml",
       "file_name": "삼양식품_20260414_발행공시_002420.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -707,7 +707,7 @@
       "size_bytes": 3825074
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230706_지분공시_000152.xml",
+      "file_path": "./삼양식품_20230706_지분공시_000152.xml",
       "file_name": "삼양식품_20230706_지분공시_000152.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -718,7 +718,7 @@
       "size_bytes": 102280
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230706_지분공시_000152.pdf",
+      "file_path": "./삼양식품_20230706_지분공시_000152.pdf",
       "file_name": "삼양식품_20230706_지분공시_000152.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -729,7 +729,7 @@
       "size_bytes": 213730
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231005_지분공시_000116.xml",
+      "file_path": "./삼양식품_20231005_지분공시_000116.xml",
       "file_name": "삼양식품_20231005_지분공시_000116.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -740,7 +740,7 @@
       "size_bytes": 56585
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231005_지분공시_000116.pdf",
+      "file_path": "./삼양식품_20231005_지분공시_000116.pdf",
       "file_name": "삼양식품_20231005_지분공시_000116.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -751,7 +751,7 @@
       "size_bytes": 261576
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000905.pdf",
+      "file_path": "./삼양식품_20250429_지분공시_000905.pdf",
       "file_name": "삼양식품_20250429_지분공시_000905.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -762,7 +762,7 @@
       "size_bytes": 225560
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000905.xml",
+      "file_path": "./삼양식품_20250429_지분공시_000905.xml",
       "file_name": "삼양식품_20250429_지분공시_000905.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -773,7 +773,7 @@
       "size_bytes": 42548
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001201.pdf",
+      "file_path": "./삼양식품_20250602_지분공시_001201.pdf",
       "file_name": "삼양식품_20250602_지분공시_001201.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -784,7 +784,7 @@
       "size_bytes": 244667
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001201.xml",
+      "file_path": "./삼양식품_20250602_지분공시_001201.xml",
       "file_name": "삼양식품_20250602_지분공시_001201.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -795,7 +795,7 @@
       "size_bytes": 110148
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240417_발행공시_000008.xml",
+      "file_path": "./삼양식품_20240417_발행공시_000008.xml",
       "file_name": "삼양식품_20240417_발행공시_000008.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -806,7 +806,7 @@
       "size_bytes": 2669045
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240417_발행공시_000008.pdf",
+      "file_path": "./삼양식품_20240417_발행공시_000008.pdf",
       "file_name": "삼양식품_20240417_발행공시_000008.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -817,7 +817,7 @@
       "size_bytes": 2913369
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240104_지분공시_000146.pdf",
+      "file_path": "./삼양식품_20240104_지분공시_000146.pdf",
       "file_name": "삼양식품_20240104_지분공시_000146.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -828,7 +828,7 @@
       "size_bytes": 212213
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240104_지분공시_000146.xml",
+      "file_path": "./삼양식품_20240104_지분공시_000146.xml",
       "file_name": "삼양식품_20240104_지분공시_000146.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -839,7 +839,7 @@
       "size_bytes": 94281
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240404_발행공시_002982.xml",
+      "file_path": "./삼양식품_20240404_발행공시_002982.xml",
       "file_name": "삼양식품_20240404_발행공시_002982.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -850,7 +850,7 @@
       "size_bytes": 2416626
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240404_발행공시_002982.pdf",
+      "file_path": "./삼양식품_20240404_발행공시_002982.pdf",
       "file_name": "삼양식품_20240404_발행공시_002982.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -861,7 +861,7 @@
       "size_bytes": 2880456
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231010_지분공시_000064.pdf",
+      "file_path": "./삼양식품_20231010_지분공시_000064.pdf",
       "file_name": "삼양식품_20231010_지분공시_000064.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -872,7 +872,7 @@
       "size_bytes": 212504
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231010_지분공시_000064.xml",
+      "file_path": "./삼양식품_20231010_지분공시_000064.xml",
       "file_name": "삼양식품_20231010_지분공시_000064.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -883,7 +883,7 @@
       "size_bytes": 95868
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251114_지분공시_003007.xml",
+      "file_path": "./삼양식품_20251114_지분공시_003007.xml",
       "file_name": "삼양식품_20251114_지분공시_003007.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -894,7 +894,7 @@
       "size_bytes": 106967
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251114_지분공시_003007.pdf",
+      "file_path": "./삼양식품_20251114_지분공시_003007.pdf",
       "file_name": "삼양식품_20251114_지분공시_003007.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -905,7 +905,7 @@
       "size_bytes": 242979
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240902_지분공시_000315.pdf",
+      "file_path": "./삼양식품_20240902_지분공시_000315.pdf",
       "file_name": "삼양식품_20240902_지분공시_000315.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -916,7 +916,7 @@
       "size_bytes": 253099
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240902_지분공시_000315.xml",
+      "file_path": "./삼양식품_20240902_지분공시_000315.xml",
       "file_name": "삼양식품_20240902_지분공시_000315.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -927,7 +927,7 @@
       "size_bytes": 95409
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250311_지분공시_000834.pdf",
+      "file_path": "./삼양식품_20250311_지분공시_000834.pdf",
       "file_name": "삼양식품_20250311_지분공시_000834.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -938,7 +938,7 @@
       "size_bytes": 801476
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250311_지분공시_000834.xml",
+      "file_path": "./삼양식품_20250311_지분공시_000834.xml",
       "file_name": "삼양식품_20250311_지분공시_000834.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -949,7 +949,7 @@
       "size_bytes": 1280703
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240129_지분공시_000054.xml",
+      "file_path": "./삼양식품_20240129_지분공시_000054.xml",
       "file_name": "삼양식품_20240129_지분공시_000054.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -960,7 +960,7 @@
       "size_bytes": 99469
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240129_지분공시_000054.pdf",
+      "file_path": "./삼양식품_20240129_지분공시_000054.pdf",
       "file_name": "삼양식품_20240129_지분공시_000054.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -971,7 +971,7 @@
       "size_bytes": 254681
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250812_지분공시_000604.xml",
+      "file_path": "./삼양식품_20250812_지분공시_000604.xml",
       "file_name": "삼양식품_20250812_지분공시_000604.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -982,7 +982,7 @@
       "size_bytes": 106856
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250812_지분공시_000604.pdf",
+      "file_path": "./삼양식품_20250812_지분공시_000604.pdf",
       "file_name": "삼양식품_20250812_지분공시_000604.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -993,7 +993,7 @@
       "size_bytes": 242913
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250106_지분공시_000143.xml",
+      "file_path": "./삼양식품_20250106_지분공시_000143.xml",
       "file_name": "삼양식품_20250106_지분공시_000143.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1004,7 +1004,7 @@
       "size_bytes": 56963
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250106_지분공시_000143.pdf",
+      "file_path": "./삼양식품_20250106_지분공시_000143.pdf",
       "file_name": "삼양식품_20250106_지분공시_000143.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1015,7 +1015,7 @@
       "size_bytes": 276463
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260311_지분공시_004113.pdf",
+      "file_path": "./삼양식품_20260311_지분공시_004113.pdf",
       "file_name": "삼양식품_20260311_지분공시_004113.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1026,7 +1026,7 @@
       "size_bytes": 1241495
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260311_지분공시_004113.xml",
+      "file_path": "./삼양식품_20260311_지분공시_004113.xml",
       "file_name": "삼양식품_20260311_지분공시_004113.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1037,7 +1037,7 @@
       "size_bytes": 1345061
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240108_지분공시_000448.pdf",
+      "file_path": "./삼양식품_20240108_지분공시_000448.pdf",
       "file_name": "삼양식품_20240108_지분공시_000448.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1048,7 +1048,7 @@
       "size_bytes": 276523
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240108_지분공시_000448.xml",
+      "file_path": "./삼양식품_20240108_지분공시_000448.xml",
       "file_name": "삼양식품_20240108_지분공시_000448.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1059,7 +1059,7 @@
       "size_bytes": 56753
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001241.xml",
+      "file_path": "./삼양식품_20250602_지분공시_001241.xml",
       "file_name": "삼양식품_20250602_지분공시_001241.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1070,7 +1070,7 @@
       "size_bytes": 24804
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_지분공시_001241.pdf",
+      "file_path": "./삼양식품_20250602_지분공시_001241.pdf",
       "file_name": "삼양식품_20250602_지분공시_001241.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1081,7 +1081,7 @@
       "size_bytes": 199957
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241118_지분공시_000202.xml",
+      "file_path": "./삼양식품_20241118_지분공시_000202.xml",
       "file_name": "삼양식품_20241118_지분공시_000202.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1092,7 +1092,7 @@
       "size_bytes": 106997
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241118_지분공시_000202.pdf",
+      "file_path": "./삼양식품_20241118_지분공시_000202.pdf",
       "file_name": "삼양식품_20241118_지분공시_000202.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1103,7 +1103,7 @@
       "size_bytes": 250674
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240618_지분공시_000377.pdf",
+      "file_path": "./삼양식품_20240618_지분공시_000377.pdf",
       "file_name": "삼양식품_20240618_지분공시_000377.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1114,7 +1114,7 @@
       "size_bytes": 255299
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240618_지분공시_000377.xml",
+      "file_path": "./삼양식품_20240618_지분공시_000377.xml",
       "file_name": "삼양식품_20240618_지분공시_000377.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1125,7 +1125,7 @@
       "size_bytes": 97035
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260424_발행공시_000017.xml",
+      "file_path": "./삼양식품_20260424_발행공시_000017.xml",
       "file_name": "삼양식품_20260424_발행공시_000017.xml",
       "report_type": "C",
       "report_name": "발행공시",
@@ -1136,7 +1136,7 @@
       "size_bytes": 3954687
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260424_발행공시_000017.pdf",
+      "file_path": "./삼양식품_20260424_발행공시_000017.pdf",
       "file_name": "삼양식품_20260424_발행공시_000017.pdf",
       "report_type": "C",
       "report_name": "발행공시",
@@ -1147,7 +1147,7 @@
       "size_bytes": 2746427
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260331_지분공시_002153.xml",
+      "file_path": "./삼양식품_20260331_지분공시_002153.xml",
       "file_name": "삼양식품_20260331_지분공시_002153.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1158,7 +1158,7 @@
       "size_bytes": 27150
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260331_지분공시_002153.pdf",
+      "file_path": "./삼양식품_20260331_지분공시_002153.pdf",
       "file_name": "삼양식품_20260331_지분공시_002153.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1169,7 +1169,7 @@
       "size_bytes": 202283
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260402_지분공시_001582.pdf",
+      "file_path": "./삼양식품_20260402_지분공시_001582.pdf",
       "file_name": "삼양식품_20260402_지분공시_001582.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1180,7 +1180,7 @@
       "size_bytes": 202500
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260402_지분공시_001582.xml",
+      "file_path": "./삼양식품_20260402_지분공시_001582.xml",
       "file_name": "삼양식품_20260402_지분공시_001582.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1191,7 +1191,7 @@
       "size_bytes": 30087
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231024_지분공시_000270.pdf",
+      "file_path": "./삼양식품_20231024_지분공시_000270.pdf",
       "file_name": "삼양식품_20231024_지분공시_000270.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1202,7 +1202,7 @@
       "size_bytes": 199508
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231024_지분공시_000270.xml",
+      "file_path": "./삼양식품_20231024_지분공시_000270.xml",
       "file_name": "삼양식품_20231024_지분공시_000270.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1213,7 +1213,7 @@
       "size_bytes": 21829
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241118_지분공시_000217.xml",
+      "file_path": "./삼양식품_20241118_지분공시_000217.xml",
       "file_name": "삼양식품_20241118_지분공시_000217.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1224,7 +1224,7 @@
       "size_bytes": 114507
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241118_지분공시_000217.pdf",
+      "file_path": "./삼양식품_20241118_지분공시_000217.pdf",
       "file_name": "삼양식품_20241118_지분공시_000217.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1235,7 +1235,7 @@
       "size_bytes": 259197
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250515_지분공시_001789.xml",
+      "file_path": "./삼양식품_20250515_지분공시_001789.xml",
       "file_name": "삼양식품_20250515_지분공시_001789.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1246,7 +1246,7 @@
       "size_bytes": 113168
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250515_지분공시_001789.pdf",
+      "file_path": "./삼양식품_20250515_지분공시_001789.pdf",
       "file_name": "삼양식품_20250515_지분공시_001789.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1257,7 +1257,7 @@
       "size_bytes": 254342
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231024_지분공시_000330.pdf",
+      "file_path": "./삼양식품_20231024_지분공시_000330.pdf",
       "file_name": "삼양식품_20231024_지분공시_000330.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1268,7 +1268,7 @@
       "size_bytes": 260304
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231024_지분공시_000330.xml",
+      "file_path": "./삼양식품_20231024_지분공시_000330.xml",
       "file_name": "삼양식품_20231024_지분공시_000330.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1279,7 +1279,7 @@
       "size_bytes": 98875
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000893.pdf",
+      "file_path": "./삼양식품_20250429_지분공시_000893.pdf",
       "file_name": "삼양식품_20250429_지분공시_000893.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1290,7 +1290,7 @@
       "size_bytes": 225616
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000893.xml",
+      "file_path": "./삼양식품_20250429_지분공시_000893.xml",
       "file_name": "삼양식품_20250429_지분공시_000893.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1301,7 +1301,7 @@
       "size_bytes": 42514
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230705_지분공시_000408.pdf",
+      "file_path": "./삼양식품_20230705_지분공시_000408.pdf",
       "file_name": "삼양식품_20230705_지분공시_000408.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1312,7 +1312,7 @@
       "size_bytes": 200176
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230705_지분공시_000408.xml",
+      "file_path": "./삼양식품_20230705_지분공시_000408.xml",
       "file_name": "삼양식품_20230705_지분공시_000408.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1323,7 +1323,7 @@
       "size_bytes": 22627
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230705_지분공시_000405.pdf",
+      "file_path": "./삼양식품_20230705_지분공시_000405.pdf",
       "file_name": "삼양식품_20230705_지분공시_000405.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1334,7 +1334,7 @@
       "size_bytes": 260699
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230705_지분공시_000405.xml",
+      "file_path": "./삼양식품_20230705_지분공시_000405.xml",
       "file_name": "삼양식품_20230705_지분공시_000405.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1345,7 +1345,7 @@
       "size_bytes": 104964
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240320_지분공시_001595.pdf",
+      "file_path": "./삼양식품_20240320_지분공시_001595.pdf",
       "file_name": "삼양식품_20240320_지분공시_001595.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1356,7 +1356,7 @@
       "size_bytes": 254398
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240320_지분공시_001595.xml",
+      "file_path": "./삼양식품_20240320_지분공시_001595.xml",
       "file_name": "삼양식품_20240320_지분공시_001595.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1367,7 +1367,7 @@
       "size_bytes": 97868
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240508_지분공시_000519.xml",
+      "file_path": "./삼양식품_20240508_지분공시_000519.xml",
       "file_name": "삼양식품_20240508_지분공시_000519.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1378,7 +1378,7 @@
       "size_bytes": 53673
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240508_지분공시_000519.pdf",
+      "file_path": "./삼양식품_20240508_지분공시_000519.pdf",
       "file_name": "삼양식품_20240508_지분공시_000519.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1389,7 +1389,7 @@
       "size_bytes": 206510
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240313_지분공시_001151.xml",
+      "file_path": "./삼양식품_20240313_지분공시_001151.xml",
       "file_name": "삼양식품_20240313_지분공시_001151.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1400,7 +1400,7 @@
       "size_bytes": 1214592
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240313_지분공시_001151.pdf",
+      "file_path": "./삼양식품_20240313_지분공시_001151.pdf",
       "file_name": "삼양식품_20240313_지분공시_001151.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1411,7 +1411,7 @@
       "size_bytes": 2674596
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000917.pdf",
+      "file_path": "./삼양식품_20250429_지분공시_000917.pdf",
       "file_name": "삼양식품_20250429_지분공시_000917.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1422,7 +1422,7 @@
       "size_bytes": 253979
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250429_지분공시_000917.xml",
+      "file_path": "./삼양식품_20250429_지분공시_000917.xml",
       "file_name": "삼양식품_20250429_지분공시_000917.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1433,7 +1433,7 @@
       "size_bytes": 112748
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250307_지분공시_000701.pdf",
+      "file_path": "./삼양식품_20250307_지분공시_000701.pdf",
       "file_name": "삼양식품_20250307_지분공시_000701.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1444,7 +1444,7 @@
       "size_bytes": 244427
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250307_지분공시_000701.xml",
+      "file_path": "./삼양식품_20250307_지분공시_000701.xml",
       "file_name": "삼양식품_20250307_지분공시_000701.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1455,7 +1455,7 @@
       "size_bytes": 109072
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240702_지분공시_000218.pdf",
+      "file_path": "./삼양식품_20240702_지분공시_000218.pdf",
       "file_name": "삼양식품_20240702_지분공시_000218.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1466,7 +1466,7 @@
       "size_bytes": 276428
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240702_지분공시_000218.xml",
+      "file_path": "./삼양식품_20240702_지분공시_000218.xml",
       "file_name": "삼양식품_20240702_지분공시_000218.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1477,7 +1477,7 @@
       "size_bytes": 55736
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250702_지분공시_000259.xml",
+      "file_path": "./삼양식품_20250702_지분공시_000259.xml",
       "file_name": "삼양식품_20250702_지분공시_000259.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1488,7 +1488,7 @@
       "size_bytes": 63896
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250702_지분공시_000259.pdf",
+      "file_path": "./삼양식품_20250702_지분공시_000259.pdf",
       "file_name": "삼양식품_20250702_지분공시_000259.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1499,7 +1499,7 @@
       "size_bytes": 269081
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240812_지분공시_000913.xml",
+      "file_path": "./삼양식품_20240812_지분공시_000913.xml",
       "file_name": "삼양식품_20240812_지분공시_000913.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1510,7 +1510,7 @@
       "size_bytes": 95631
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240812_지분공시_000913.pdf",
+      "file_path": "./삼양식품_20240812_지분공시_000913.pdf",
       "file_name": "삼양식품_20240812_지분공시_000913.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1521,7 +1521,7 @@
       "size_bytes": 253405
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240403_지분공시_002924.xml",
+      "file_path": "./삼양식품_20240403_지분공시_002924.xml",
       "file_name": "삼양식품_20240403_지분공시_002924.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1532,7 +1532,7 @@
       "size_bytes": 102687
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240403_지분공시_002924.pdf",
+      "file_path": "./삼양식품_20240403_지분공시_002924.pdf",
       "file_name": "삼양식품_20240403_지분공시_002924.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1543,7 +1543,7 @@
       "size_bytes": 213896
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_지분공시_000648.pdf",
+      "file_path": "./삼양식품_20250211_지분공시_000648.pdf",
       "file_name": "삼양식품_20250211_지분공시_000648.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1554,7 +1554,7 @@
       "size_bytes": 244534
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_지분공시_000648.xml",
+      "file_path": "./삼양식품_20250211_지분공시_000648.xml",
       "file_name": "삼양식품_20250211_지분공시_000648.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1565,7 +1565,7 @@
       "size_bytes": 109064
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260506_지분공시_000293.pdf",
+      "file_path": "./삼양식품_20260506_지분공시_000293.pdf",
       "file_name": "삼양식품_20260506_지분공시_000293.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1576,7 +1576,7 @@
       "size_bytes": 207540
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260506_지분공시_000293.xml",
+      "file_path": "./삼양식품_20260506_지분공시_000293.xml",
       "file_name": "삼양식품_20260506_지분공시_000293.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1587,7 +1587,7 @@
       "size_bytes": 63960
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240328_기타공시_001603.pdf",
+      "file_path": "./삼양식품_20240328_기타공시_001603.pdf",
       "file_name": "삼양식품_20240328_기타공시_001603.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1598,7 +1598,7 @@
       "size_bytes": 169549
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240328_기타공시_001603.xml",
+      "file_path": "./삼양식품_20240328_기타공시_001603.xml",
       "file_name": "삼양식품_20240328_기타공시_001603.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1609,7 +1609,7 @@
       "size_bytes": 11514
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231006_지분공시_000496.xml",
+      "file_path": "./삼양식품_20231006_지분공시_000496.xml",
       "file_name": "삼양식품_20231006_지분공시_000496.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1620,7 +1620,7 @@
       "size_bytes": 51894
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231006_지분공시_000496.pdf",
+      "file_path": "./삼양식품_20231006_지분공시_000496.pdf",
       "file_name": "삼양식품_20231006_지분공시_000496.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1631,7 +1631,7 @@
       "size_bytes": 822463
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260326_기타공시_001437.xml",
+      "file_path": "./삼양식품_20260326_기타공시_001437.xml",
       "file_name": "삼양식품_20260326_기타공시_001437.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1642,7 +1642,7 @@
       "size_bytes": 9948
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260326_기타공시_001437.pdf",
+      "file_path": "./삼양식품_20260326_기타공시_001437.pdf",
       "file_name": "삼양식품_20260326_기타공시_001437.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1653,7 +1653,7 @@
       "size_bytes": 165809
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240402_지분공시_000916.pdf",
+      "file_path": "./삼양식품_20240402_지분공시_000916.pdf",
       "file_name": "삼양식품_20240402_지분공시_000916.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1664,7 +1664,7 @@
       "size_bytes": 276626
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240402_지분공시_000916.xml",
+      "file_path": "./삼양식품_20240402_지분공시_000916.xml",
       "file_name": "삼양식품_20240402_지분공시_000916.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1675,7 +1675,7 @@
       "size_bytes": 56755
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250827_지분공시_000404.xml",
+      "file_path": "./삼양식품_20250827_지분공시_000404.xml",
       "file_name": "삼양식품_20250827_지분공시_000404.xml",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1686,7 +1686,7 @@
       "size_bytes": 74541
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250827_지분공시_000404.pdf",
+      "file_path": "./삼양식품_20250827_지분공시_000404.pdf",
       "file_name": "삼양식품_20250827_지분공시_000404.pdf",
       "report_type": "D",
       "report_name": "지분공시",
@@ -1697,7 +1697,7 @@
       "size_bytes": 242395
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240628_거래소공시_800963.xml",
+      "file_path": "./삼양식품_20240628_거래소공시_800963.xml",
       "file_name": "삼양식품_20240628_거래소공시_800963.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1708,7 +1708,7 @@
       "size_bytes": 5828
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250918_기타공시_000396.pdf",
+      "file_path": "./삼양식품_20250918_기타공시_000396.pdf",
       "file_name": "삼양식품_20250918_기타공시_000396.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1719,7 +1719,7 @@
       "size_bytes": 198356
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250918_기타공시_000396.xml",
+      "file_path": "./삼양식품_20250918_기타공시_000396.xml",
       "file_name": "삼양식품_20250918_기타공시_000396.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1730,7 +1730,7 @@
       "size_bytes": 13422
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250805_기타공시_000274.pdf",
+      "file_path": "./삼양식품_20250805_기타공시_000274.pdf",
       "file_name": "삼양식품_20250805_기타공시_000274.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1741,7 +1741,7 @@
       "size_bytes": 217607
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250805_기타공시_000274.xml",
+      "file_path": "./삼양식품_20250805_기타공시_000274.xml",
       "file_name": "삼양식품_20250805_기타공시_000274.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1752,7 +1752,7 @@
       "size_bytes": 18370
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251124_기타공시_000284.xml",
+      "file_path": "./삼양식품_20251124_기타공시_000284.xml",
       "file_name": "삼양식품_20251124_기타공시_000284.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1763,7 +1763,7 @@
       "size_bytes": 18539
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251124_기타공시_000284.pdf",
+      "file_path": "./삼양식품_20251124_기타공시_000284.pdf",
       "file_name": "삼양식품_20251124_기타공시_000284.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1774,7 +1774,7 @@
       "size_bytes": 193494
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250205_거래소공시_800624.xml",
+      "file_path": "./삼양식품_20250205_거래소공시_800624.xml",
       "file_name": "삼양식품_20250205_거래소공시_800624.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1785,7 +1785,7 @@
       "size_bytes": 14561
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231025_거래소공시_800284.xml",
+      "file_path": "./삼양식품_20231025_거래소공시_800284.xml",
       "file_name": "삼양식품_20231025_거래소공시_800284.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1796,7 +1796,7 @@
       "size_bytes": 39465
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260326_거래소공시_802581.xml",
+      "file_path": "./삼양식품_20260326_거래소공시_802581.xml",
       "file_name": "삼양식품_20260326_거래소공시_802581.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1807,7 +1807,7 @@
       "size_bytes": 40981
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250612_거래소공시_800157.xml",
+      "file_path": "./삼양식품_20250612_거래소공시_800157.xml",
       "file_name": "삼양식품_20250612_거래소공시_800157.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1818,7 +1818,7 @@
       "size_bytes": 6089
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231006_기타공시_000480.xml",
+      "file_path": "./삼양식품_20231006_기타공시_000480.xml",
       "file_name": "삼양식품_20231006_기타공시_000480.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1829,7 +1829,7 @@
       "size_bytes": 101428
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231006_기타공시_000480.pdf",
+      "file_path": "./삼양식품_20231006_기타공시_000480.pdf",
       "file_name": "삼양식품_20231006_기타공시_000480.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -1840,7 +1840,7 @@
       "size_bytes": 1030331
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240812_거래소공시_800571.xml",
+      "file_path": "./삼양식품_20240812_거래소공시_800571.xml",
       "file_name": "삼양식품_20240812_거래소공시_800571.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1851,7 +1851,7 @@
       "size_bytes": 13389
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241129_거래소공시_800329.xml",
+      "file_path": "./삼양식품_20241129_거래소공시_800329.xml",
       "file_name": "삼양식품_20241129_거래소공시_800329.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1862,7 +1862,7 @@
       "size_bytes": 6956
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260210_거래소공시_800879.xml",
+      "file_path": "./삼양식품_20260210_거래소공시_800879.xml",
       "file_name": "삼양식품_20260210_거래소공시_800879.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1873,7 +1873,7 @@
       "size_bytes": 9510
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240812_거래소공시_800372.xml",
+      "file_path": "./삼양식품_20240812_거래소공시_800372.xml",
       "file_name": "삼양식품_20240812_거래소공시_800372.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1884,7 +1884,7 @@
       "size_bytes": 9383
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250910_거래소공시_800315.xml",
+      "file_path": "./삼양식품_20250910_거래소공시_800315.xml",
       "file_name": "삼양식품_20250910_거래소공시_800315.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1895,7 +1895,7 @@
       "size_bytes": 21058
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241216_거래소공시_801348.xml",
+      "file_path": "./삼양식품_20241216_거래소공시_801348.xml",
       "file_name": "삼양식품_20241216_거래소공시_801348.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1906,7 +1906,7 @@
       "size_bytes": 18606
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241112_거래소공시_800434.xml",
+      "file_path": "./삼양식품_20241112_거래소공시_800434.xml",
       "file_name": "삼양식품_20241112_거래소공시_800434.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1917,7 +1917,7 @@
       "size_bytes": 8113
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250819_거래소공시_800314.xml",
+      "file_path": "./삼양식품_20250819_거래소공시_800314.xml",
       "file_name": "삼양식품_20250819_거래소공시_800314.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1928,7 +1928,7 @@
       "size_bytes": 6664
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_거래소공시_801488.xml",
+      "file_path": "./삼양식품_20230811_거래소공시_801488.xml",
       "file_name": "삼양식품_20230811_거래소공시_801488.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1939,7 +1939,7 @@
       "size_bytes": 10028
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241218_거래소공시_800344.xml",
+      "file_path": "./삼양식품_20241218_거래소공시_800344.xml",
       "file_name": "삼양식품_20241218_거래소공시_800344.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1950,7 +1950,7 @@
       "size_bytes": 5774
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250326_거래소공시_802088.xml",
+      "file_path": "./삼양식품_20250326_거래소공시_802088.xml",
       "file_name": "삼양식품_20250326_거래소공시_802088.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1961,7 +1961,7 @@
       "size_bytes": 10156
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240812_거래소공시_800367.xml",
+      "file_path": "./삼양식품_20240812_거래소공시_800367.xml",
       "file_name": "삼양식품_20240812_거래소공시_800367.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1972,7 +1972,7 @@
       "size_bytes": 6054
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250318_거래소공시_800902.xml",
+      "file_path": "./삼양식품_20250318_거래소공시_800902.xml",
       "file_name": "삼양식품_20250318_거래소공시_800902.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1983,7 +1983,7 @@
       "size_bytes": 21085
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230602_거래소공시_800586.xml",
+      "file_path": "./삼양식품_20230602_거래소공시_800586.xml",
       "file_name": "삼양식품_20230602_거래소공시_800586.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -1994,7 +1994,7 @@
       "size_bytes": 15546
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260326_거래소공시_802713.xml",
+      "file_path": "./삼양식품_20260326_거래소공시_802713.xml",
       "file_name": "삼양식품_20260326_거래소공시_802713.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2005,7 +2005,7 @@
       "size_bytes": 12798
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250812_거래소공시_800357.xml",
+      "file_path": "./삼양식품_20250812_거래소공시_800357.xml",
       "file_name": "삼양식품_20250812_거래소공시_800357.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2016,7 +2016,7 @@
       "size_bytes": 6054
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251119_거래소공시_800525.xml",
+      "file_path": "./삼양식품_20251119_거래소공시_800525.xml",
       "file_name": "삼양식품_20251119_거래소공시_800525.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2027,7 +2027,7 @@
       "size_bytes": 15594
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250326_거래소공시_801425.xml",
+      "file_path": "./삼양식품_20250326_거래소공시_801425.xml",
       "file_name": "삼양식품_20250326_거래소공시_801425.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2038,7 +2038,7 @@
       "size_bytes": 21633
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230911_거래소공시_800566.xml",
+      "file_path": "./삼양식품_20230911_거래소공시_800566.xml",
       "file_name": "삼양식품_20230911_거래소공시_800566.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2049,7 +2049,7 @@
       "size_bytes": 14046
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_거래소공시_800849.xml",
+      "file_path": "./삼양식품_20250211_거래소공시_800849.xml",
       "file_name": "삼양식품_20250211_거래소공시_800849.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2060,7 +2060,7 @@
       "size_bytes": 16454
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_거래소공시_801511.xml",
+      "file_path": "./삼양식품_20230811_거래소공시_801511.xml",
       "file_name": "삼양식품_20230811_거래소공시_801511.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2071,7 +2071,7 @@
       "size_bytes": 6026
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241216_거래소공시_801372.xml",
+      "file_path": "./삼양식품_20241216_거래소공시_801372.xml",
       "file_name": "삼양식품_20241216_거래소공시_801372.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2082,7 +2082,7 @@
       "size_bytes": 4566
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250917_거래소공시_800103.xml",
+      "file_path": "./삼양식품_20250917_거래소공시_800103.xml",
       "file_name": "삼양식품_20250917_거래소공시_800103.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2093,7 +2093,7 @@
       "size_bytes": 6448
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240214_거래소공시_801083.xml",
+      "file_path": "./삼양식품_20240214_거래소공시_801083.xml",
       "file_name": "삼양식품_20240214_거래소공시_801083.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2104,7 +2104,7 @@
       "size_bytes": 26040
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250512_거래소공시_800561.xml",
+      "file_path": "./삼양식품_20250512_거래소공시_800561.xml",
       "file_name": "삼양식품_20250512_거래소공시_800561.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2115,7 +2115,7 @@
       "size_bytes": 3941
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231006_거래소공시_800402.xml",
+      "file_path": "./삼양식품_20231006_거래소공시_800402.xml",
       "file_name": "삼양식품_20231006_거래소공시_800402.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2126,7 +2126,7 @@
       "size_bytes": 11600
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251128_거래소공시_800926.xml",
+      "file_path": "./삼양식품_20251128_거래소공시_800926.xml",
       "file_name": "삼양식품_20251128_거래소공시_800926.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2137,7 +2137,7 @@
       "size_bytes": 6566
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20251216_거래소공시_801362.xml",
+      "file_path": "./삼양식품_20251216_거래소공시_801362.xml",
       "file_name": "삼양식품_20251216_거래소공시_801362.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2148,7 +2148,7 @@
       "size_bytes": 4566
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240605_거래소공시_800455.xml",
+      "file_path": "./삼양식품_20240605_거래소공시_800455.xml",
       "file_name": "삼양식품_20240605_거래소공시_800455.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2159,7 +2159,7 @@
       "size_bytes": 15560
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250311_기타공시_000785.pdf",
+      "file_path": "./삼양식품_20250311_기타공시_000785.pdf",
       "file_name": "삼양식품_20250311_기타공시_000785.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2170,7 +2170,7 @@
       "size_bytes": 894669
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250311_기타공시_000785.xml",
+      "file_path": "./삼양식품_20250311_기타공시_000785.xml",
       "file_name": "삼양식품_20250311_기타공시_000785.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2181,7 +2181,7 @@
       "size_bytes": 1291775
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250602_거래소공시_800826.xml",
+      "file_path": "./삼양식품_20250602_거래소공시_800826.xml",
       "file_name": "삼양식품_20250602_거래소공시_800826.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2192,7 +2192,7 @@
       "size_bytes": 37637
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240522_거래소공시_800100.xml",
+      "file_path": "./삼양식품_20240522_거래소공시_800100.xml",
       "file_name": "삼양식품_20240522_거래소공시_800100.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2203,7 +2203,7 @@
       "size_bytes": 6896
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250822_거래소공시_800377.xml",
+      "file_path": "./삼양식품_20250822_거래소공시_800377.xml",
       "file_name": "삼양식품_20250822_거래소공시_800377.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2214,7 +2214,7 @@
       "size_bytes": 6783
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260311_기타공시_004079.xml",
+      "file_path": "./삼양식품_20260311_기타공시_004079.xml",
       "file_name": "삼양식품_20260311_기타공시_004079.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2225,7 +2225,7 @@
       "size_bytes": 1360626
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260311_기타공시_004079.pdf",
+      "file_path": "./삼양식품_20260311_기타공시_004079.pdf",
       "file_name": "삼양식품_20260311_기타공시_004079.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2236,7 +2236,7 @@
       "size_bytes": 1285736
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250812_거래소공시_800367.xml",
+      "file_path": "./삼양식품_20250812_거래소공시_800367.xml",
       "file_name": "삼양식품_20250812_거래소공시_800367.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2247,7 +2247,7 @@
       "size_bytes": 9372
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260129_거래소공시_800733.xml",
+      "file_path": "./삼양식품_20260129_거래소공시_800733.xml",
       "file_name": "삼양식품_20260129_거래소공시_800733.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2258,7 +2258,7 @@
       "size_bytes": 16266
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240320_거래소공시_801411.xml",
+      "file_path": "./삼양식품_20240320_거래소공시_801411.xml",
       "file_name": "삼양식품_20240320_거래소공시_801411.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2269,7 +2269,7 @@
       "size_bytes": 21071
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230705_거래소공시_800466.xml",
+      "file_path": "./삼양식품_20230705_거래소공시_800466.xml",
       "file_name": "삼양식품_20230705_거래소공시_800466.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2280,7 +2280,7 @@
       "size_bytes": 50309
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260318_거래소공시_800884.xml",
+      "file_path": "./삼양식품_20260318_거래소공시_800884.xml",
       "file_name": "삼양식품_20260318_거래소공시_800884.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2291,7 +2291,7 @@
       "size_bytes": 22356
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241216_거래소공시_801389.xml",
+      "file_path": "./삼양식품_20241216_거래소공시_801389.xml",
       "file_name": "삼양식품_20241216_거래소공시_801389.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2302,7 +2302,7 @@
       "size_bytes": 5701
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240214_거래소공시_801137.xml",
+      "file_path": "./삼양식품_20240214_거래소공시_801137.xml",
       "file_name": "삼양식품_20240214_거래소공시_801137.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2313,7 +2313,7 @@
       "size_bytes": 9801
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240925_거래소공시_800151.xml",
+      "file_path": "./삼양식품_20240925_거래소공시_800151.xml",
       "file_name": "삼양식품_20240925_거래소공시_800151.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2324,7 +2324,7 @@
       "size_bytes": 6067
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241230_거래소공시_800479.xml",
+      "file_path": "./삼양식품_20241230_거래소공시_800479.xml",
       "file_name": "삼양식품_20241230_거래소공시_800479.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2335,7 +2335,7 @@
       "size_bytes": 19898
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241218_거래소공시_800338.xml",
+      "file_path": "./삼양식품_20241218_거래소공시_800338.xml",
       "file_name": "삼양식품_20241218_거래소공시_800338.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2346,7 +2346,7 @@
       "size_bytes": 9194
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20231024_거래소공시_800322.xml",
+      "file_path": "./삼양식품_20231024_거래소공시_800322.xml",
       "file_name": "삼양식품_20231024_거래소공시_800322.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2357,7 +2357,7 @@
       "size_bytes": 11576
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20241118_거래소공시_800435.xml",
+      "file_path": "./삼양식품_20241118_거래소공시_800435.xml",
       "file_name": "삼양식품_20241118_거래소공시_800435.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2368,7 +2368,7 @@
       "size_bytes": 35525
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240328_거래소공시_803128.xml",
+      "file_path": "./삼양식품_20240328_거래소공시_803128.xml",
       "file_name": "삼양식품_20240328_거래소공시_803128.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2379,7 +2379,7 @@
       "size_bytes": 34083
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260210_거래소공시_800846.xml",
+      "file_path": "./삼양식품_20260210_거래소공시_800846.xml",
       "file_name": "삼양식품_20260210_거래소공시_800846.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2390,7 +2390,7 @@
       "size_bytes": 18956
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250530_거래소공시_800868.xml",
+      "file_path": "./삼양식품_20250530_거래소공시_800868.xml",
       "file_name": "삼양식품_20250530_거래소공시_800868.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2401,7 +2401,7 @@
       "size_bytes": 1884668
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250730_거래소공시_800661.xml",
+      "file_path": "./삼양식품_20250730_거래소공시_800661.xml",
       "file_name": "삼양식품_20250730_거래소공시_800661.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2412,7 +2412,7 @@
       "size_bytes": 9723
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240618_거래소공시_800522.xml",
+      "file_path": "./삼양식품_20240618_거래소공시_800522.xml",
       "file_name": "삼양식품_20240618_거래소공시_800522.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2423,7 +2423,7 @@
       "size_bytes": 37418
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250925_거래소공시_800632.xml",
+      "file_path": "./삼양식품_20250925_거래소공시_800632.xml",
       "file_name": "삼양식품_20250925_거래소공시_800632.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2434,7 +2434,7 @@
       "size_bytes": 24701
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_거래소공시_800877.xml",
+      "file_path": "./삼양식품_20250211_거래소공시_800877.xml",
       "file_name": "삼양식품_20250211_거래소공시_800877.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2445,7 +2445,7 @@
       "size_bytes": 6827
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240313_기타공시_001136.xml",
+      "file_path": "./삼양식품_20240313_기타공시_001136.xml",
       "file_name": "삼양식품_20240313_기타공시_001136.xml",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2456,7 +2456,7 @@
       "size_bytes": 1223482
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240313_기타공시_001136.pdf",
+      "file_path": "./삼양식품_20240313_기타공시_001136.pdf",
       "file_name": "삼양식품_20240313_기타공시_001136.pdf",
       "report_type": "E",
       "report_name": "기타공시",
@@ -2467,7 +2467,7 @@
       "size_bytes": 2751962
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20230811_거래소공시_801458.xml",
+      "file_path": "./삼양식품_20230811_거래소공시_801458.xml",
       "file_name": "삼양식품_20230811_거래소공시_801458.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2478,7 +2478,7 @@
       "size_bytes": 8848
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_거래소공시_800872.xml",
+      "file_path": "./삼양식품_20250211_거래소공시_800872.xml",
       "file_name": "삼양식품_20250211_거래소공시_800872.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2489,7 +2489,7 @@
       "size_bytes": 9730
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250926_거래소공시_800513.xml",
+      "file_path": "./삼양식품_20250926_거래소공시_800513.xml",
       "file_name": "삼양식품_20250926_거래소공시_800513.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2500,7 +2500,7 @@
       "size_bytes": 27089
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250211_거래소공시_800859.xml",
+      "file_path": "./삼양식품_20250211_거래소공시_800859.xml",
       "file_name": "삼양식품_20250211_거래소공시_800859.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2511,7 +2511,7 @@
       "size_bytes": 10447
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20260210_거래소공시_800886.xml",
+      "file_path": "./삼양식품_20260210_거래소공시_800886.xml",
       "file_name": "삼양식품_20260210_거래소공시_800886.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2522,7 +2522,7 @@
       "size_bytes": 6411
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20250630_거래소공시_800555.xml",
+      "file_path": "./삼양식품_20250630_거래소공시_800555.xml",
       "file_name": "삼양식품_20250630_거래소공시_800555.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2533,7 +2533,7 @@
       "size_bytes": 11368
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240131_거래소공시_800395.xml",
+      "file_path": "./삼양식품_20240131_거래소공시_800395.xml",
       "file_name": "삼양식품_20240131_거래소공시_800395.xml",
       "report_type": "I",
       "report_name": "거래소공시",
@@ -2544,7 +2544,7 @@
       "size_bytes": 14603
     },
     {
-      "file_path": "/data/richard/cohesity-poc/gaia_dataset/003230_삼양식품/삼양식품_20240531_거래소공시_800780.xml",
+      "file_path": "./삼양식품_20240531_거래소공시_800780.xml",
       "file_name": "삼양식품_20240531_거래소공시_800780.xml",
       "report_type": "I",
       "report_name": "거래소공시",

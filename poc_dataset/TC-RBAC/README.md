@@ -1,7 +1,7 @@
 # TC-RBAC-01~08 — Dataset 구성 가이드
 
 ## Dataset A: Finance (기존 원본 재사용, 복사 없음)
-- 경로: `$GAIA_DATASET_DIR`(전체, 기본값 `/data/richard/cohesity-poc/gaia_dataset` —
+- 경로: `$GAIA_DATASET_DIR`(전체, 기본값 `/data/richard/data/gaia_dataset` —
   `../paths_config.py` 참고) 또는 `../TC-FUNC/sample_dataset`(소규모, 003230_삼양식품)
 - Authorized User: User A만 지정
 

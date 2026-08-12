@@ -6,10 +6,10 @@
 
 경로는 `../paths_config.py`의 `GAIA_DATASET_DIR` / `GAIA_WEB_DATASET_DIR` 기준이며,
 기본값은 아래와 같습니다(환경 변수 `GAIA_DATASET_DIR` / `GAIA_WEB_DATASET_DIR`로
-오버라이드 가능 — cohesity-poc가 다른 위치로 이동한 경우 등):
+오버라이드 가능 — 원본 데이터가 다른 위치로 이동한 경우 등):
 
-- `GAIA_DATASET_DIR` 기본값: `/data/richard/cohesity-poc/gaia_dataset`
-- `GAIA_WEB_DATASET_DIR` 기본값: `/data/richard/cohesity-poc/gaia_web_dataset`
+- `GAIA_DATASET_DIR` 기본값: `/data/richard/data/gaia_dataset`
+- `GAIA_WEB_DATASET_DIR` 기본값: `/data/richard/data/gaia_web_dataset`
 
 | 티어 | 목표 | 실제 구성 | 실측 크기 | 회사 수 |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
   `$GAIA_DATASET_DIR/<회사명>/` 경로와 그대로 매칭됩니다. 아래처럼 절대경로 리스트를
   즉시 만들 수 있습니다:
   ```bash
-  GAIA_DATASET_DIR="${GAIA_DATASET_DIR:-/data/richard/cohesity-poc/gaia_dataset}"
+  GAIA_DATASET_DIR="${GAIA_DATASET_DIR:-/data/richard/data/gaia_dataset}"
   while read -r name; do echo "$GAIA_DATASET_DIR/$name"; done < tier_1gb_companies.txt
   ```
 - TC-PERF-04(GPU/CPU/Memory 모니터링), TC-PERF-05(재시작 복구), TC-PERF-02(동시 사용자

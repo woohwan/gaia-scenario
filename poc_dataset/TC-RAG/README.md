@@ -1,10 +1,10 @@
 # TC-RAG-01~07 — RAG 품질 골든셋
 
 원본(`$GAIA_DATASET_DIR`, `$GAIA_WEB_DATASET_DIR` — 기본값은 `../paths_config.py` 참고)은
-그대로 두고, 이미 존재하던 LLM 생성 QA 산출물(`$GAIA_RAGAS_EVAL_DIR/qa_pairs_mixed.json`,
-기본값 `/data/richard/cohesity-poc/gaia_ragas/eval/qa_pairs_mixed.json`, 200개,
-교보증권/삼성전자/현대자동차 혼합)에서 PoC 규모에 맞게 재추출했습니다. 신규 LLM 호출 없이
-기존 산출물만 샘플링/가공했습니다.
+그대로 두고, 이미 존재하던 LLM 생성 QA 산출물(gaia_ragas 파이프라인의 `qa_pairs_mixed.json`,
+200개, 교보증권/삼성전자/현대자동차 혼합)에서 PoC 규모에 맞게 재추출했습니다. 신규 LLM
+호출 없이 기존 산출물만 샘플링/가공했고, 아래 5개 golden set 파일 모두 이 폴더에 복사되어
+있어 원본 없이도 읽을 수 있습니다.
 
 **주의**: 아래 golden set의 JSON 파일 자체(질문/정답/근거문단)는 원본이 없어도 읽을 수
 있지만, 실제로 Cohesity Gaia에 질의해서 채점하려면 근거 문서(교보증권/삼성전자/현대자동차
@@ -32,5 +32,6 @@ GaiaAPIClient.ask()로 실제 `answer`/`contexts`를 수집한 뒤 이 골든셋
   2026-08-11). 추후 필요 시 영어 문서 일부를 LLM으로 번역해 합성해야 함.
 
 ## TC-DATA-01 관련
-포맷별 golden set은 `../TC-DATA-01_format_coverage/README.md` 참고 (`$COLLECTOR_EVAL_OUTPUT_DIR`
-의 기존 pdf/docx_doc/xlsx_xls_csv/ppt_pptx QA 200개씩 재사용).
+포맷별 golden set은 `../TC-DATA-01_format_coverage/README.md` 참고 (collector/eval
+파이프라인의 기존 pdf/docx_doc/xlsx_xls_csv/ppt_pptx QA에서 포맷별 25개씩 샘플링해
+이 저장소에 복사).
