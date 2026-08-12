@@ -19,6 +19,11 @@ gaia_web_dataset)만 크기 때문에 절대경로로 직접 가리킵니다(아
 | `GAIA_DATASET_DIR` | `/data/richard/data/gaia_dataset` |
 | `GAIA_WEB_DATASET_DIR` | `/data/richard/data/gaia_web_dataset` |
 
+## Gaia Dataset 등록 계획
+실제 Gaia에 몇 개의 Dataset을 어떻게 등록해야 하는지는
+[`DATASET_REGISTRATION/README.md`](DATASET_REGISTRATION/README.md) 참고 (총 10개, 선택 1개
+포함 시 11개 — 회사/폴더 목록 `.txt` 포함).
+
 ## TC 코드 ↔ 폴더 매핑
 
 | 대분류 | 관련 TC | 폴더 | 구성 방식 |

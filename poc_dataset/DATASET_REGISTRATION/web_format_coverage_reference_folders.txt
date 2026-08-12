@@ -1,0 +1,23 @@
+# TC-DATA-01 섹션2(대규모 포맷별 QA, qa_pairs_*.json 100건)가 실제로 참조하는
+# gaia_web_dataset 하위 폴더 18개. $GAIA_WEB_DATASET_DIR/<폴더명>/ 형태로 매칭됨.
+# 합계 약 53GB — 개별로 새 Dataset을 만들 실익이 없음. Perf-200GB Dataset
+# ($GAIA_WEB_DATASET_DIR 전체)을 등록했다면 이미 전부 포함되어 있으므로
+# 등록용이 아니라 "이 QA가 왜 실패하는지" 디버깅할 때 참고하는 용도.
+bok_publications
+data_go_kr
+english_reference
+gov_policy_reports
+kdischool_eng
+kistep_reports
+knto_tourism
+kostat_eng
+koti_seminar
+kowiki_knowledge
+krihs_reports
+law_lbook
+local_gov_data
+mcst_culture
+nhis_stats
+unikorea_unification
+web_pptx_en
+web_pptx_kr

@@ -1,0 +1,7 @@
+# TC-RAG-07 (다국어 질의응답, 영어) 용 gaia_web_dataset 하위 폴더
+# $GAIA_WEB_DATASET_DIR/<폴더명>/ 형태로 매칭됨
+# Perf-200GB Dataset을 이미 등록했다면 이 목록은 참고용일 뿐 별도 등록 불필요.
+# Perf-200GB 없이 RAG-07만 가볍게 테스트하고 싶다면 이 3개 폴더만 별도 Dataset으로 등록해도 됨 (합계 약 8.3GB, 5,605파일).
+english_reference
+kostat_eng
+kdischool_eng
