@@ -1,5 +1,8 @@
 # PoC 데이터셋 — 시나리오 테스트 케이스 대응
 
+전체 50개 TC를 어떤 순서/방법으로 실행하는지는
+[`../EXECUTION_ORDER.md`](../EXECUTION_ORDER.md) 참고 (`gaia_eval` 연동 지점 포함).
+
 이 저장소 루트의 `cohesity_gaia_poc_testcases.md`에 정의된 50개 테스트 케이스를
 실행하는 데 필요한 데이터를 준비한 폴더입니다. **원본(`gaia_dataset/`,
 `gaia_web_dataset/`)은 전혀 수정하지 않았고**, 필요한 만큼만 복사하거나 신규 합성했습니다.
