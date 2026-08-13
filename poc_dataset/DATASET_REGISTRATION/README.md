@@ -1,8 +1,9 @@
 # Gaia Dataset 등록 계획
 
 `cohesity_gaia_poc_testcases.md`의 50개 TC를 실행하려면 Gaia에 총 **10개**의 Dataset을
-등록해야 합니다(선택 사항 1개 포함 시 11개). 아래 표가 최종안이고, 각 항목의 근거와
-등록 절차는 표 아래 상세 섹션에 있습니다.
+등록해야 합니다(선택 사항 1개 포함 시 11개). 아래 표가 "무엇을" 등록할지의 최종안이고,
+각 항목의 근거는 표 아래 상세 섹션에 있습니다. "어떻게"(Helios UI 단계별 클릭 순서)는
+[`REGISTRATION_STEPS.md`](REGISTRATION_STEPS.md) 참고.
 
 이 폴더의 `.txt` 파일은 각 Dataset에 포함시킬 회사/폴더 목록입니다. `PERF/tier_1gb_companies.txt`,
 `PERF/tier_10gb_companies.txt`는 기존 파일을 그대로 재사용합니다.
