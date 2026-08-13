@@ -1,10 +1,14 @@
 ================================================================================
 Gaia PoC 환경(데이터 + gaia_scenario + gaia_eval) 다른 머신 이전 체크리스트
 ================================================================================
-작성일: 2026-08-13
+작성일: 2026-08-13 (같은 날 갱신 — Dataset 등록 문서, 실행 순서 문서,
+        gaia_scenario↔gaia_eval 연동 스크립트, Gaia API 스키마 검증 반영)
 범위: 원본 데이터(gaia_dataset/gaia_web_dataset, 163GB), gaia_scenario 저장소,
       gaia_eval 저장소 — 이 3가지를 새 머신으로 옮길 때 무엇을 그대로 git clone만
       하면 되고, 무엇을 별도로 옮겨야 하고, 무엇을 새로 만들어야 하는지 정리.
+      "이전 후 실제로 50개 TC를 어떤 순서로 돌리는지"는 이 문서의 범위 밖이며
+      gaia_scenario/EXECUTION_ORDER.md를 참고하세요 — 이 문서는 순수하게
+      "환경을 옮기는 것" 자체만 다룹니다.
 
 --------------------------------------------------------------------------------
 [ 목차 ]
@@ -27,11 +31,19 @@ Gaia PoC 환경(데이터 + gaia_scenario + gaia_eval) 다른 머신 이전 체�
   |   |-- gaia_dataset/             DART 공시 문서 (103GB, 275개사)
   |   `-- gaia_web_dataset/         웹 수집 문서 (60GB)
   |-- gaia_scenario/                PoC 50개 TC 시나리오 (git, GitHub 연결됨)
+  |   |-- EXECUTION_ORDER.md        50개 TC 전체 실행 순서 (gaia_eval 연동 지점 포함)
+  |   |-- migration.txt / .md       이 문서
   |   `-- poc_dataset/
   |       |-- paths_config.py       GAIA_DATASET_DIR / GAIA_WEB_DATASET_DIR 정의
+  |       |-- DATASET_REGISTRATION/ Gaia Dataset 등록 계획(README.md) +
+  |       |                         Helios UI 단계별 절차(REGISTRATION_STEPS.md)
   |       `-- (TC별 fixture, 전부 저장소 안에 복사되어 있어 원본 없이도 읽힘)
   `-- gaia_eval/                    RAGAS 자동 평가 파이프라인 (git, GitHub 연결됨)
       |-- gaia_dataset/config.py    GAIA_DATASET_DIR 정의 (DART 공시용)
+      |-- gaia_dataset/gaia_evaluator.py         GAIA API 호출(POST /ask,
+      |                                          PUT /ask/exhaustive) + RAGAS 채점
+      |-- gaia_dataset/convert_scenario_golden_set.py  gaia_scenario의 TC-RAG
+      |                                          golden set을 gaia_eval로 변환+평가
       `-- gaia_web_dataset/config.py DATASET_DIR(=GAIA_WEB_DATASET_DIR) 정의 (웹 문서용)
 
   gaia_scenario와 gaia_eval 둘 다 원본 데이터를 복제하지 않고 절대경로로
@@ -177,6 +189,14 @@ Gaia PoC 환경(데이터 + gaia_scenario + gaia_eval) 다른 머신 이전 체�
 
   5) (선택) Cohesity Gaia 연결 확인 — gaia_eval/README.txt 3절 curl 예시 참고
 
+  6) (선택) gaia_scenario ↔ gaia_eval 연동 스크립트 확인 — 네트워크/API 키 불필요,
+     변환 로직만 검증(TC-RAG-01/02/03, TC-API-07에서 실제로 쓰는 스크립트)
+       cd gaia_eval/gaia_dataset
+       python3 convert_scenario_golden_set.py \
+         ../../gaia_scenario/poc_dataset/TC-RAG/golden_set_faithfulness_relevancy.json \
+         --convert-only
+       # "[변환 완료] 30개 샘플 → ..." 이 나오면 두 저장소 간 상대경로가 정상
+
 ================================================================================
 7  알려진 한계 / 이전 후에도 자동으로 안 따라오는 것
 ================================================================================
@@ -213,4 +233,7 @@ Gaia PoC 환경(데이터 + gaia_scenario + gaia_eval) 다른 머신 이전 체�
   [ ] gaia_eval/gaia_dataset: .env.example → .env 복사 후 API 키 채우기 (Docker 쓸 경우)
   [ ] ANTHROPIC_API_KEY / OPENAI_API_KEY / HUGGING_FACE_HUB_TOKEN 등 셸 환경변수 설정 (conda 로컬 실행 시)
   [ ] COHESITY_CLUSTER_URL / COHESITY_API_KEY / COHESITY_DATASET_NAME 설정 + 클러스터 네트워크 도달 확인
-  [ ] 6절 검증 절차로 경로/키 정상 동작 확인
+  [ ] 6절 검증 절차로 경로/키/연동 스크립트 정상 동작 확인
+  [ ] Gaia Dataset을 아직 등록 안 했다면 poc_dataset/DATASET_REGISTRATION/
+      README.md(무엇을) + REGISTRATION_STEPS.md(어떻게) 참고해 등록
+  [ ] 이후 실제 TC 실행은 gaia_scenario/EXECUTION_ORDER.md 순서를 따를 것

@@ -3,8 +3,9 @@
 `gaia_scenario`(50개 TC 시나리오)와 `gaia_eval`(RAGAS 자동 평가 도구)을 어떤 순서/방법으로
 엮어서 실행하는지 정리한 통합 문서입니다. `gaia_scenario`가 뼈대(진행 순서를 결정)이고,
 `gaia_eval`은 RAG-01/02/03, PERF-06(일부), API-07 — 이 4곳에서만 "부품"으로 호출됩니다.
-그 외 자세한 원본 데이터 위치/환경변수는 [`migration.txt`](migration.txt), Dataset 등록
-자체는 [`poc_dataset/DATASET_REGISTRATION/README.md`](poc_dataset/DATASET_REGISTRATION/README.md)
+그 외 자세한 원본 데이터 위치/환경변수는 [`migration.md`](migration.md)(`migration.txt`와
+동일 내용), Dataset 등록 자체는
+[`poc_dataset/DATASET_REGISTRATION/README.md`](poc_dataset/DATASET_REGISTRATION/README.md)
 를 참고하세요. 이 문서는 그 둘을 전제로 "무엇을 몇 번째로 하는가"만 다룹니다.
 
 ## 0단계 — 사전 준비 (한 번만)
